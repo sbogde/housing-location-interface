@@ -1,6 +1,6 @@
 {
   "name": "@sbogde/housing-location-interface",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript interface for housing location data - reusable across Angular applications",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
