@@ -1,0 +1,32 @@
+{
+  "name": "@sbogde/housing-location-interface",
+  "version": "1.0.0",
+  "description": "TypeScript interface for housing location data - reusable across Angular applications",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "typescript",
+    "interface",
+    "housing",
+    "real-estate",
+    "angular",
+    "types"
+  ],
+  "author": "Sorin Bogde <your-email@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sbogde/housing-location-interface"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
